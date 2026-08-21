@@ -18,9 +18,9 @@ Download the `PeerDrop-2.0.1.apk` file from the Assets section below.
 
 Offline Secure File Sharing for Android.
 
-## 🎥 Demo
+## 🎥 PeerDrop Demo
 
-[▶️ Watch PeerDrop Demo](peerdrop-demo.mp4)
+[▶️ Watch PeerDrop Demo](demo/peerdrop-demo.mp4)
 
 ## 📱 Screenshots
 
