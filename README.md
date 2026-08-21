@@ -25,31 +25,31 @@ Offline Secure File Sharing for Android.
 ## 📱 Screenshots
 
 ### 1. Splash Screen
-![Splash](screenshots/splash.png)
+![Splash](screenshots/Splash.png)
 
 ### 2. Permission Screen
-![Permission](screenshots/permission.png)
+![Permission](screenshots/Permission.png)
 
 ### 3. Home Screen
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ### 4. Select Files
-![Select](screenshots/select.png)
+![Select](screenshots/Select.png)
 
 ### 5. File Section
-![File Section](screenshots/file-section.png)
+![File Section](screenshots/File-Section.png)
 
 ### 6. Selected Files
-![Selected](screenshots/selected.png)
+![Selected](screenshots/Selected.png)
 
 ### 7. Searching
-![Searching](screenshots/searching.png)
+![Searching](screenshots/Searching.png)
 
 ### 8. Transfer
-![Transfer](screenshots/transfer.png)
+![Transfer](screenshots/Transfer.png)
 
 ### 9. Completed
-![Completed](screenshots/completed.png)
+![Completed](screenshots/Completed.png)
 
 ## 📥 Download
 
