@@ -25,7 +25,7 @@ Offline Secure File Sharing for Android.
 ## 📱 Screenshots
 
 ### 1. Splash Screen
-![Splash](screenshots/Splash.png)
+![Splash](https://github.com/PremCreationApps/PeerDrop/blob/main/splash.png)
 
 ### 2. Permission Screen
 ![Permission](screenshots/Permission.png)
