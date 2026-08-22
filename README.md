@@ -43,7 +43,7 @@ Offline Secure File Sharing for Android.
 ![Selected](https://github.com/PremCreationApps/PeerDrop/blob/main/selected.png)
 
 ### 7. Searching
-![Searching](screenshots/Searching.png)
+![Searching](https://github.com/PremCreationApps/PeerDrop/blob/main/searching.png)
 
 ### 8. Transfer
 ![Transfer](screenshots/Transfer.png)
