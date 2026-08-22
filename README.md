@@ -49,7 +49,7 @@ Offline Secure File Sharing for Android.
 ![Transfer](https://github.com/PremCreationApps/PeerDrop/blob/main/transfer.png)
 
 ### 9. Completed
-![Completed](screenshots/Completed.png)
+![Completed](https://github.com/PremCreationApps/PeerDrop/blob/main/completed.png)
 
 ## 📥 Download
 
