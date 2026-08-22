@@ -31,7 +31,7 @@ Offline Secure File Sharing for Android.
 ![Permission](https://github.com/PremCreationApps/PeerDrop/blob/main/permission.png)
 
 ### 3. Home Screen
-![Home](screenshots/Home.png)
+![Home](https://github.com/PremCreationApps/PeerDrop/blob/main/home.png)
 
 ### 4. Select Files
 ![Select](screenshots/Select.png)
