@@ -34,7 +34,7 @@ Offline Secure File Sharing for Android.
 ![Home](https://github.com/PremCreationApps/PeerDrop/blob/main/home.png)
 
 ### 4. Select Files
-![Select](screenshots/Select.png)
+![Select](https://github.com/PremCreationApps/PeerDrop/blob/main/select.png)
 
 ### 5. File Section
 ![File Section](screenshots/File-Section.png)
