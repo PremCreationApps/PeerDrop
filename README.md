@@ -1,4 +1,4 @@
-# PeerDrop 2.0.1
+# PeerDrop 2.0.2
 
 ## What's New
 
