@@ -13,7 +13,7 @@
 
 ## Download
 
-Download the `PeerDrop-2.0.1.apk` file from the Assets section below.
+Download the `PeerDrop-2.0.2.apk` file from the Assets section below.
 # PeerDrop
 
 Offline Secure File Sharing for Android.
