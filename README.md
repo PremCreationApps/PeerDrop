@@ -66,4 +66,4 @@ Prem Creation: **https://my-android-apps-store.blogspot.com**
 
 Independent Android Developer
 
-App-Ads.Txt **https://prem-creation-3e151.web.app/app-ads.txt**
+App-Ads.Txt: **https://prem-creation-3e151.web.app/app-ads.txt**
