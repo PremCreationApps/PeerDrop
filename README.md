@@ -58,7 +58,7 @@ Download the latest PeerDrop APK from the Releases section.
 
 ## 🔐 Privacy
 
-Privacy Policy: **https://my-android-apps-store.blogspot.com/p/peerdrop-privacy-policy.html**
+Privacy Policy: **https://prem-creation.blogspot.com/p/peerdrop-privacy-policy.html**
 
 ## 👨‍💻 Developer
 
