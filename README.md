@@ -20,7 +20,7 @@ Offline Secure File Sharing for Android.
 
 ## 🎥 PeerDrop Demo
 
-[![Watch the video](https://youtube.com)](https://youtu.be)
+[![Watch the video](https://youtube.com)]([https://youtu.be](https://youtu.be/J97lFnWRARI)
 
 ## 📱 Screenshots
 
