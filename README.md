@@ -54,6 +54,8 @@ Offline Secure File Sharing for Android.
 ## 📥 Download
 
 [⬇️ Download PeerDrop 1.1.0](https://github.com/PremCreationApps/PeerDrop/raw/refs/heads/main/PeerDrop%202.0.2.apk)
+
+[⬇️ Download PeerDrop 2.0.3](https://github.com/PremCreationApps/PeerDrop/raw/refs/heads/main/peerdrop%202.0.3.apk)
 Download the latest PeerDrop APK from the Releases section.
 
 ## 🔐 Privacy
