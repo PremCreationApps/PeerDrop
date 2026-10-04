@@ -2,7 +2,7 @@
 
 ## 🎥 PeerDrop Demo
 
-[![Watch the video](https://youtube.com)](https://youtu.be/J97lFnWRARI)
+[![Watch the video][(https://youtube.com)](https://youtu.be/J97lFnWRARI)
 
 ## 📥 Download
 
