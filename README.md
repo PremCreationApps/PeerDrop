@@ -2,8 +2,9 @@
 
 ## 🎥 PeerDrop Demo
 
-[![Watch the video]
-(https://youtube.com)(https://youtu.be/J97lFnWRARI)
+Watch the PeerDrop app demo on YouTube:
+
+▶️ "Watch PeerDrop Demo" (https://youtu.be/J97lFnWRARI)
 
 ## 📥 Download
 
